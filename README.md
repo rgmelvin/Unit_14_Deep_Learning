@@ -62,7 +62,7 @@ Use the above to answer the following:
 
 ## The closing price model tracks the actual values better over time:
 
-![Closing Price Model] (Closing_model_predictions.png)
+![Closing Price Model] ([Closing_model_predictions.png](https://github.com/rgmelvin/Unit_14_Deep_Learning/blob/[branch]/image.jpg?raw=true))
 
 > Which window size works best for the model?
 
