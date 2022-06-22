@@ -68,7 +68,10 @@ Use the above to answer the following:
 ![Fear and Greed Index Model](https://github.com/rgmelvin/Unit_14_Deep_Learning/blob/252dfb06448937af035ae55a6eab9cb4d5b3c51f/FNG_model_predictions.png)
 
 
-> Which window size works best for the model?
+## Which window size works best for the model?
+
+## The 10-day window size produced lowest loss and closest tracking of the actual data.
+
 
 - - -
 
