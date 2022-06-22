@@ -65,7 +65,9 @@ Use the above to answer the following:
 ![Closing Price Model](https://github.com/rgmelvin/Unit_14_Deep_Learning/blob/7bdbe6b4e805d2eceb0798deecc79ceb671d14ce/Closing_model_predictions.png)
 
 ## Fear and Greed Index Model
-![Fear and Greed Index Model]
+![Fear and Greed Index Model](https://github.com/rgmelvin/Unit_14_Deep_Learning/blob/252dfb06448937af035ae55a6eab9cb4d5b3c51f/FNG_model_predictions.png)
+
+
 > Which window size works best for the model?
 
 - - -
